@@ -1,0 +1,13 @@
+D:\ИТИ\4 курс\1 семестр\сети\client\client\bin\Debug\netcoreapp3.1\client.exe
+D:\ИТИ\4 курс\1 семестр\сети\client\client\bin\Debug\netcoreapp3.1\client.deps.json
+D:\ИТИ\4 курс\1 семестр\сети\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.json
+D:\ИТИ\4 курс\1 семестр\сети\client\client\bin\Debug\netcoreapp3.1\client.runtimeconfig.dev.json
+D:\ИТИ\4 курс\1 семестр\сети\client\client\bin\Debug\netcoreapp3.1\client.dll
+D:\ИТИ\4 курс\1 семестр\сети\client\client\bin\Debug\netcoreapp3.1\client.pdb
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.csprojAssemblyReference.cache
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfoInputs.cache
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.AssemblyInfo.cs
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.csproj.CoreCompileInputs.cache
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.dll
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.pdb
+D:\ИТИ\4 курс\1 семестр\сети\client\client\obj\Debug\netcoreapp3.1\client.genruntimeconfig.cache
