@@ -64,13 +64,15 @@ namespace SocketTcpServer
                         handler.Shutdown(SocketShutdown.Both);
                         handler.Close();
                     }
-                    else err = ("Число введено неверно");
+                    else {
+                        err = ("Число введено неверно");
                     data = Encoding.Unicode.GetBytes(err);
                     handler.Send(data);
 
                     // закрываем сокет
                     handler.Shutdown(SocketShutdown.Both);
                     handler.Close();
+                   }
                 }
             }
             catch (Exception ex)
